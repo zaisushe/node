@@ -1,0 +1,5 @@
+C:\Projects\node
+C:\Projects\node\global.js
+this is an error
+this is an info
+this is a warn
